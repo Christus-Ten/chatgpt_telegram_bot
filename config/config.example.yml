@@ -1,5 +1,5 @@
-telegram_token: ""
-openai_api_key: ""
+telegram_token: "8453854595:AAHLoFUggbppIdfUnB8dZsPsruroUK278o4"
+openai_api_key: "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"
 openai_api_base: "http://api:8080/v1"  # Set the LocalAI API base or set null to use the OpenAI API
 use_chatgpt_api: true
 allowed_telegram_usernames: []  # if empty, the bot is available to anyone. pass a username string to allow it and/or user ids as positive integers and/or channel ids as negative integers
